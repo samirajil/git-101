@@ -2,8 +2,9 @@
 body {
 	margin:0;
 	font-family:Helvetica;
+	background:yellow;
 }
 
 img {
-	height: 30px;
+	height: 50px;
 }
